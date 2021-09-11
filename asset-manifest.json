@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cloning-web-otomoto/static/css/main.ccc107c0.chunk.css",
-    "main.js": "/cloning-web-otomoto/static/js/main.3d945bf1.chunk.js",
-    "main.js.map": "/cloning-web-otomoto/static/js/main.3d945bf1.chunk.js.map",
+    "main.js": "/cloning-web-otomoto/static/js/main.a9d976d8.chunk.js",
+    "main.js.map": "/cloning-web-otomoto/static/js/main.a9d976d8.chunk.js.map",
     "runtime-main.js": "/cloning-web-otomoto/static/js/runtime-main.6f9ce4db.js",
     "runtime-main.js.map": "/cloning-web-otomoto/static/js/runtime-main.6f9ce4db.js.map",
     "static/css/2.4986e9b2.chunk.css": "/cloning-web-otomoto/static/css/2.4986e9b2.chunk.css",
-    "static/js/2.ad6047af.chunk.js": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js",
-    "static/js/2.ad6047af.chunk.js.map": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js.map",
+    "static/js/2.6d8df05f.chunk.js": "/cloning-web-otomoto/static/js/2.6d8df05f.chunk.js",
+    "static/js/2.6d8df05f.chunk.js.map": "/cloning-web-otomoto/static/js/2.6d8df05f.chunk.js.map",
     "static/js/3.f44ada52.chunk.js": "/cloning-web-otomoto/static/js/3.f44ada52.chunk.js",
     "static/js/3.f44ada52.chunk.js.map": "/cloning-web-otomoto/static/js/3.f44ada52.chunk.js.map",
     "index.html": "/cloning-web-otomoto/index.html",
     "static/css/2.4986e9b2.chunk.css.map": "/cloning-web-otomoto/static/css/2.4986e9b2.chunk.css.map",
     "static/css/main.ccc107c0.chunk.css.map": "/cloning-web-otomoto/static/css/main.ccc107c0.chunk.css.map",
-    "static/js/2.ad6047af.chunk.js.LICENSE.txt": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js.LICENSE.txt",
+    "static/js/2.6d8df05f.chunk.js.LICENSE.txt": "/cloning-web-otomoto/static/js/2.6d8df05f.chunk.js.LICENSE.txt",
     "static/media/adira.640de2dd.png": "/cloning-web-otomoto/static/media/adira.640de2dd.png",
     "static/media/baf.a490ccdc.png": "/cloning-web-otomoto/static/media/baf.a490ccdc.png",
     "static/media/banner.8fc7889b.jpeg": "/cloning-web-otomoto/static/media/banner.8fc7889b.jpeg",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f9ce4db.js",
     "static/css/2.4986e9b2.chunk.css",
-    "static/js/2.ad6047af.chunk.js",
+    "static/js/2.6d8df05f.chunk.js",
     "static/css/main.ccc107c0.chunk.css",
-    "static/js/main.3d945bf1.chunk.js"
+    "static/js/main.a9d976d8.chunk.js"
   ]
 }
