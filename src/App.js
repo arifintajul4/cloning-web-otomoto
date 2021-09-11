@@ -9,15 +9,9 @@ function App() {
     return (
         <Router>
             <Switch>
-                <Route exact path="/jubelmoto">
-                    <JubelMoto />
-                </Route>
-                <Route exact path="/">
-                    <Home />
-                </Route>
-                <Route exact path="*">
-                    <NotFound />
-                </Route>
+                <Route exact path="/" component={Home} />
+                <Route exact path="/jubelmoto" component={JubelMoto} />
+                <Route component={NotFound} />
             </Switch>
         </Router>
     );
