@@ -61,7 +61,6 @@ export default function Filter() {
                         </ul>
                     </Collapse>
                 </div>
-                <div className="px-4 mt-2 border-b-4 border-gray-300 pb-4"></div>
                 <div className="flex justify-end mt-4 mr-4">
                     <button className="font-bold py-2 px-4 bg-blue-700 text-white rounded">
                         Filter
