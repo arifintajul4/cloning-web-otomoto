@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/cloning-web-otomoto/static/css/main.ccc107c0.chunk.css",
+    "main.js": "/cloning-web-otomoto/static/js/main.8bac1130.chunk.js",
+    "main.js.map": "/cloning-web-otomoto/static/js/main.8bac1130.chunk.js.map",
+    "runtime-main.js": "/cloning-web-otomoto/static/js/runtime-main.6f9ce4db.js",
+    "runtime-main.js.map": "/cloning-web-otomoto/static/js/runtime-main.6f9ce4db.js.map",
+    "static/css/2.4986e9b2.chunk.css": "/cloning-web-otomoto/static/css/2.4986e9b2.chunk.css",
+    "static/js/2.ad6047af.chunk.js": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js",
+    "static/js/2.ad6047af.chunk.js.map": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js.map",
+    "static/js/3.f44ada52.chunk.js": "/cloning-web-otomoto/static/js/3.f44ada52.chunk.js",
+    "static/js/3.f44ada52.chunk.js.map": "/cloning-web-otomoto/static/js/3.f44ada52.chunk.js.map",
+    "index.html": "/cloning-web-otomoto/index.html",
+    "static/css/2.4986e9b2.chunk.css.map": "/cloning-web-otomoto/static/css/2.4986e9b2.chunk.css.map",
+    "static/css/main.ccc107c0.chunk.css.map": "/cloning-web-otomoto/static/css/main.ccc107c0.chunk.css.map",
+    "static/js/2.ad6047af.chunk.js.LICENSE.txt": "/cloning-web-otomoto/static/js/2.ad6047af.chunk.js.LICENSE.txt",
+    "static/media/adira.640de2dd.png": "/cloning-web-otomoto/static/media/adira.640de2dd.png",
+    "static/media/baf.a490ccdc.png": "/cloning-web-otomoto/static/media/baf.a490ccdc.png",
+    "static/media/banner.8fc7889b.jpeg": "/cloning-web-otomoto/static/media/banner.8fc7889b.jpeg",
+    "static/media/booking.a278579d.png": "/cloning-web-otomoto/static/media/booking.a278579d.png",
+    "static/media/categori.d89c748c.png": "/cloning-web-otomoto/static/media/categori.d89c748c.png",
+    "static/media/hero.da4b0cd4.jpg": "/cloning-web-otomoto/static/media/hero.da4b0cd4.jpg",
+    "static/media/icon-ap.3e4848ff.png": "/cloning-web-otomoto/static/media/icon-ap.3e4848ff.png",
+    "static/media/icon-ps.1ab3c3b5.png": "/cloning-web-otomoto/static/media/icon-ps.1ab3c3b5.png",
+    "static/media/icon1.889acbf6.png": "/cloning-web-otomoto/static/media/icon1.889acbf6.png",
+    "static/media/icon2.83965ae9.png": "/cloning-web-otomoto/static/media/icon2.83965ae9.png",
+    "static/media/icon3.35e96a52.png": "/cloning-web-otomoto/static/media/icon3.35e96a52.png",
+    "static/media/icon4.db6a86e3.png": "/cloning-web-otomoto/static/media/icon4.db6a86e3.png",
+    "static/media/icon5.860386ce.png": "/cloning-web-otomoto/static/media/icon5.860386ce.png",
+    "static/media/loan.9a6daf0a.png": "/cloning-web-otomoto/static/media/loan.9a6daf0a.png",
+    "static/media/motor.79959908.jpeg": "/cloning-web-otomoto/static/media/motor.79959908.jpeg",
+    "static/media/styles.css": "/cloning-web-otomoto/static/media/revicons.e8746a62.woff",
+    "static/media/smartinspecto.b3f9acb2.png": "/cloning-web-otomoto/static/media/smartinspecto.b3f9acb2.png",
+    "static/media/tukang.bba9a104.jpg": "/cloning-web-otomoto/static/media/tukang.bba9a104.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f9ce4db.js",
+    "static/css/2.4986e9b2.chunk.css",
+    "static/js/2.ad6047af.chunk.js",
+    "static/css/main.ccc107c0.chunk.css",
+    "static/js/main.8bac1130.chunk.js"
+  ]
+}
